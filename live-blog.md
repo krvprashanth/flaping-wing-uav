@@ -19,9 +19,11 @@ This will be live blog, where I will be writing here about my day to day ramblin
 
 Check out [Robotics Research Center Video!!](https://youtu.be/aaA5NVIKEa8)
 
+
 ---
 # Week 1 
 Feb 13 - Feb 19
+
 ---
 
 This week, I wanted to write about why I decided to do research, and on what problem I'm currently working on.
