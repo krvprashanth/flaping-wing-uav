@@ -9,13 +9,15 @@ nav_order: 1
 
 Hey Folks….
 
-This year I've been working on a really exciting projects.. Undergraduate research in Robotics! It's my fourth year of my engineering, and I decided to work as a undergraduate researcher in Robotics under the supervision of a professor.
+This year I've been working on a really exciting projects.. Undergraduate research in Robotics! It's my fourth year of engineering, and I decided to work as a undergraduate researcher in Robotics under the supervision of a professor.
 
 
 
 This will be live blog, where I will be writing here about my day to day ramblings, learnings and research while working on research projects at [IIIT Hyderabad](https://www.iiit.ac.in/) in [Robotics Research Center](https://robotics.iiit.ac.in/).
 
 ![IIITH-RRC banner](/assets/images/iiith-rrc.jpg)
+
+Check out [Robotics Research Center Video!!](https://youtu.be/aaA5NVIKEa8)
 
 ---
 # Week 1 
