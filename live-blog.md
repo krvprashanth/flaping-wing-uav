@@ -13,9 +13,9 @@ This year I've been working on a really exciting projects.. Undergraduate resear
 
 
 
-This will be live blog, where I will be writing here about my day to day ramblings, learnings and research while working on research projects at [IIIT Hyderabad]() in [Robotics Research Center]().
+This will be live blog, where I will be writing here about my day to day ramblings, learnings and research while working on research projects at [IIIT Hyderabad](https://www.iiit.ac.in/) in [Robotics Research Center](https://robotics.iiit.ac.in/).
 
-![]()
+![IIITH-RRC banner](/assets/images/iiith-rrc.jpg)
 
 ---
 # Week 1 
