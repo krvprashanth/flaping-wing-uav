@@ -3,7 +3,7 @@ layout: default
 title: Flapping Wing UAV - Live Blog!
 nav_order: 1
 ---
-# **Project - Live Blog**
+# **Flapping Wing UAV - Live Blog**
 
 ---
 
