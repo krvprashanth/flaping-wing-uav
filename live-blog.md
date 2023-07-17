@@ -3,7 +3,7 @@ layout: default
 title: Flapping Wing UAV - Live Blog!
 nav_order: 1
 ---
-# **Flapping Wing UAV - Live Blog**
+# **Live Blog**
 
 ---
 
@@ -21,12 +21,8 @@ Check out [Robotics Research Center Video!!](https://youtu.be/aaA5NVIKEa8)
 
 
 ---
-# Week 1 
-Feb 13 - Feb 19
 
----
-
-This week, I wanted to write about why I decided to do research, and on what problem I'm currently working on.
+Here I'll be writing about why I decided to do research, and on what problem I'm currently working on.
 
 ## What is Undergraduate Research?
 
@@ -38,4 +34,7 @@ I will say that undergraduate research also requires considerable amount of work
 
 Earlier,  I've worked on some basic projects developing drones, ornithopters, electronics & embedded systems and stuff which I've used to guide high school students in my locality towards STEM(Science, Technology, Engineering, & Mathematics) motivated them mathematically and to perform hands-on activities to buld basic drone, robot to carry out science experiments.
 
-Anyway, coming to my current project here, we were working on developing the "Flapping Wing UAV" i.e. building a bird-like drone using polymer-based artificial muscles. Initially, we started design, fabrication of flapping wing UAV to build a quick/rough prototype to make it fly.
+Anyway, coming to my current project here, we were working on the topic of bio-inspired, autonomous drones focuses on drawing inspiration from biology to "Design, Modeling and control of an Bird-like Autonomous Flapping Wing Robot" to show that it is possible to perform an impressive suite of intelligent behaviors with light-weight and power-efficient sensing, processing and actuation of flapping wing UAV's.
+
+
+
