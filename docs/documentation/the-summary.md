@@ -10,6 +10,6 @@ nav_order: 4
 ---
 
 ## Git Repositories
-Common software that is on or used for building bela image.
+Common software that is on or used for building flapping wing robot.
 
 

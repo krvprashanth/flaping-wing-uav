@@ -3,8 +3,8 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# **Design, Modeling and Control of Flapping Wing UAV**
-Building Bird-like Drones using Polymer-based Artificial Muscles.
+# **Design, Modeling and Control of an Autonomous Flapping Wing Robot**
+Towards buildind a flapping-wing vehicle with goog flight performance that imitate birds of medium and large scale.
 
 ---
 
