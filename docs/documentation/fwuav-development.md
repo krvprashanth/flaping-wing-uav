@@ -4,19 +4,18 @@ title: FWUAV Development
 parent: Documentation
 nav_order: 1
 ---
----
----
 # Developing the flapping wing UAV
 This page follows the development of the flapping wing UAV.
+
 ---
 
 ## Flapping Mechanism
 
 Flapping mechanism is to convert the rotary motion of motor into the reciprocating motion of flapping wings. The basis for this mechanisms is the “crank-rocker” type of four-bar linkage. Here, the motor drives a rotating crank. The crank has a connecting rod attached to it, and the other end of the connecting rod is attached to the wing. As the crank goes around, the connecting rod pushes the wing spar to flap up and down at the hinge point.
 
-![Crank-Rocker Four Bar Link Mechanism](https://thumbs.gfycat.com/FrankYoungCaudata-mobile.mp4)
+![Crank-Rocker Four Bar Link Mechanism](/assets/images/four-bar-linkage-mechanism.mp4)
 
-A Type Of Four Bar Link Mechanism Which From A Side Rotates A Complete Rotation And From The Other Rotates By A Limited Rotation.
+A type of four bar link mechanism which from a side rotates a complete rotation and from the other rotates by a limited rotation.
 
 
 This system is complex to design and fabricate because it must withstand vast forces which reverse direction several times a second while at the same time being extremely light, durable and also provide a fairly symmetrical wing motion so the flapping wing UAV flies straight.
