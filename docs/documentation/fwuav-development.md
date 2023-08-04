@@ -34,41 +34,41 @@ There is small pinion gear for the motor, an intermediate gear that increases th
 
 Here I explain the design. Since I use a transverse shaft design. To achieve the desired rotational speed (i.e, flapping frequency) I used 2 pair of gears (gear **A** + gear **B** and gear **C** + gear **D**). So it is a gear system with two stages of reduction.
 
-(**A** + **B**)(**C** + **D**)
+       (A + B)(C + D)
 
-It is a reduction ratio gear design.
+       It is a reduction ratio gear design.
 
-**Gears**:
-- A = 12T 0.5M (Driver Gear)
-- B = 90T
-- C = 10T 0.5 M
-- D = 50T (Driven, end gear)
+          Gears:
+          
+               A = 12T 0.5M (Driver Gear)
+               B = 90T
+               C = 10T 0.5 M
+               D = 50T (Driven, end gear)
 
-Here we using 1850KV motor powered by 7.4V
+       Here we using 1850KV motor powered by 7.4V
 
-1850KV = 1850*7.4(2s)
-       = 1360 revolutions per minute 
-
-or 1360/60 = 228.16 revolutions per second
+              1850KV = 1850*7.4(2s)
+                     = 1360 revolutions per minute 
+          or 1360/60 = 228.16 revolutions per second
 
 So, In order to achieve desired rotational speed (i.e, flapping frequency) two stage of reduction ratio applied.
 
 **Calculation**: Total reduction ratio
 
-The total reduction ratio is the product of the first stage of reduction and the second stage of reduction.
+       The total reduction ratio is the product of the first stage of reduction and the second stage of reduction.
 
-- B:A - 1st stage reduction
-- D:C - 2nd stage reduction
+              B:A - 1st stage reduction
+              D:C - 2nd stage reduction
 
-(B/A)*(D/C) = (90/12)*(50/10) = 37.5
+       (B/A)*(D/C) = (90/12)*(50/10) = 37.5
 
-It means that the total reduction ratio is 1 : 37.5
+       It means that the total reduction ratio is 1 : 37.5
 
-To find the speed of end gear D (Driven Gear)
+       To find the speed of end gear D (Driven Gear)
 
-Speed of end-gear (driven D gear) = Speed of Driver gear A in sec * 1/Total reduction ratio
+       Speed of end-gear (driven D gear) = Speed of Driver gear A in sec * 1/Total reduction ratio
 
-228.16 * 1/ 37.5 = 6.08 revolutions per second
+       228.16 * 1/ 37.5 = 6.08 revolutions per second
 
 Here, revolutions per second = flap's per second (i.e, flapping frequency)
 
