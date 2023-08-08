@@ -2,11 +2,12 @@
 layout: default
 title: How-To Guides
 parent: Documentation
-nav_order: 2
+nav_order: 3
 ---
-
----------------------------------------------------------------------------------------------------
-## Table of Contents
+---
+# How-To Guides
+We are using various tools, electronic components, and building material. These guides are how to use them.
+---
 
 
 
