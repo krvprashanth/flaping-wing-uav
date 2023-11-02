@@ -10,6 +10,9 @@ Towards buildind a flapping-wing vehicle with good flight performance that imita
 
 The project aims to build an autonomous 1.4 m wing span flying bird which will carry a small camera as the payload and will be able to record pictures for surveillance applications. Two flying models have been constructed of wind span 1.4m with very distinct mechanisms and weight. The use of nylon fabric wing membrane with density 80gm/m2 has proved to deliver superior performance.
 
+
+![FWU](/assets/images/fwu1.jpg)
+
 ## **Technical Results Obtained:**
 
 **Flapping wing UAV:**
